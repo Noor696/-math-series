@@ -18,3 +18,4 @@ https://github.com/Noor696/math-series
 Fibonacci Series &  Lucas Number
 
 **Pull Request**
+https://github.com/Noor696/math-series/pull/1
